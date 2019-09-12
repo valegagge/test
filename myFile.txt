@@ -1,4 +1,4 @@
-Hello everybody !
+Hello all !
 commit 1
 commit 2
 bye bye
